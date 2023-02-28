@@ -1,0 +1,9 @@
+sirisha is a good girl  and bad girl
+:1
+a:1
+bad:1
+and:1
+is:1
+girl:2
+good:1
+sirisha:1
